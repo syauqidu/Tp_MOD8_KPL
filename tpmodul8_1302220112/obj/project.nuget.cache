@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LrvDrUyFIodiZA0S5jdMParJ1DJOTCPAMzGM2pnHRa4OWX/rMq4oe6715BqMcbGMLVfv6hjPe2NJ5IEKnsXNiQ==",
+  "dgSpecHash": "Dd7fC3ulaFVqmrQOikt21Bx/TE/iwRUuHaYZA3ZDXL4hcFylniBS2OCy6XBul4wAtcZYBDPJiTYy6SBwCtPc8w==",
   "success": true,
   "projectFilePath": "D:\\KULIAH TELKOM\\SEMESTER 4\\PRAKTIKUM KPL\\MODUL 8\\tpmodul8_1302220112\\tpmodul8_1302220112\\tpmodul8_1302220112.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\TUF GAMING\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
